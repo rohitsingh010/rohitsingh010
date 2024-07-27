@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitsinghbisht
 - 👀 I’m interested in machine enhancement
-- 🌱 I’m currently learning ML and DL
+- 🌱 I’m currently learning Python and ML  
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me via mail
 
